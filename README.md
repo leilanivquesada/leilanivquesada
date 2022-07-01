@@ -7,7 +7,9 @@ Full Stack Web Developer
 *   🌍  I'm based in the San Francisco Bay Area
 *   ✉️  You can contact me at [leilanivquesada@gmail.com](mailto:leilanivquesada@gmail.com)
 *   🧠  I'm learning Java
-*   🤝  I'm open to collaborating on projects for good!### Skills<p align="left">
+*   🤝  I'm open to collaborating on projects for good!
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
